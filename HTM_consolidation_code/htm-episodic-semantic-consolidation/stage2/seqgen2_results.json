@@ -1,0 +1,2702 @@
+[
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 0,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 1,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 2,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 3,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 4,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9928571428571429,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 0,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.925,
+  "overlap": 0.9607142857142857,
+  "falls_back_to_learned": 0.075,
+  "cond": "templates",
+  "seed": 1,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.925,
+  "overlap": 0.9794642857142858,
+  "falls_back_to_learned": 0.075,
+  "cond": "templates",
+  "seed": 2,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 3,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 4,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 0,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after visiting the gym , meera drinks tea",
+    "after visiting the gym , meera drinks tea"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ],
+   [
+    "after playing cricket , amit takes a shower",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 1,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after listening to music , rahul does yoga",
+    "after listening to music , rahul does yoga"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ],
+   [
+    "after starting work , rahul attends a meeting",
+    "after starting work , rahul attends a meeting"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 2,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after eating breakfast , anita starts work",
+    "after eating breakfast , anita starts work"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after drinking tea , neha reads a book",
+    "after drinking tea , neha reads a book"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9736842105263158,
+  "overlap": 0.9924812030075189,
+  "falls_back_to_learned": 0.02631578947368421,
+  "cond": "entities",
+  "seed": 3,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after going for a walk , sunita cooks dinner",
+    "after going for a walk , sunita cooks dinner"
+   ],
+   [
+    "after doing yoga , sunita takes a shower",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after visiting the gym , neha drinks tea",
+    "after visiting the gym , neha drinks tea"
+   ],
+   [
+    "after starting work , neha has lunch",
+    "after starting work , neha has lunch"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 4,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , neha drinks tea",
+    "after going for a walk , neha drinks tea"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after taking a shower , neha eats breakfast",
+    "after taking a shower , neha eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.6702961672473867,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 0,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , anita takes a shower",
+    "after doing yoga , anita eats breakfast"
+   ],
+   [
+    "after listening to music , amit does yoga",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after starting work , vikram attends a meeting",
+    "after starting work , vikram has lunch"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.6568844592100406,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 1,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after going for a walk , arjun cooks dinner",
+    "after going for a walk , arjun drinks tea"
+   ],
+   [
+    "after going for a walk , meera cooks dinner",
+    "after going for a walk , meera drinks tea"
+   ],
+   [
+    "after going for a walk , amit cooks dinner",
+    "after going for a walk , amit drinks tea"
+   ],
+   [
+    "after listening to music , meera does yoga",
+    "after doing yoga , meera takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.5805860805860806,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 2,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , karan starts work",
+    "after eating breakfast , karan plays cricket"
+   ],
+   [
+    "after reading a book , neha listens to music",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after doing yoga , rahul eats breakfast",
+    "after doing yoga , rahul takes a shower"
+   ],
+   [
+    "after going for a walk , arjun cooks dinner",
+    "after taking a shower , arjun eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.5503863826232247,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 3,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after cooking dinner , amit goes for a walk",
+    "after eating breakfast , amit plays cricket"
+   ],
+   [
+    "after doing yoga , sunita eats breakfast",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after cooking dinner , kavita goes for a walk",
+    "after eating breakfast , kavita plays cricket"
+   ],
+   [
+    "after cooking dinner , sunita goes for a walk",
+    "after eating breakfast , sunita plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.6834821428571429,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 4,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , amit has lunch",
+    "after attending a meeting , amit goes shopping"
+   ],
+   [
+    "after doing yoga , vikram eats breakfast",
+    "after doing yoga , vikram takes a shower"
+   ],
+   [
+    "after attending a meeting , neha has lunch",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , rohan drinks tea",
+    "after taking a shower , rohan eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.05,
+  "overlap": 0.698561507936508,
+  "falls_back_to_learned": 0.925,
+  "cond": "reversed order",
+  "seed": 0,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , karan starts work",
+    "after eating breakfast , karan does yoga"
+   ],
+   [
+    "after eating breakfast , amit starts work",
+    "after eating breakfast , amit takes a shower"
+   ],
+   [
+    "after starting work , priya has lunch",
+    "after starting work , priya eats breakfast"
+   ],
+   [
+    "after eating breakfast , rohan goes for a walk",
+    "after taking a shower , rohan plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.6886904761904762,
+  "falls_back_to_learned": 0.975,
+  "cond": "reversed order",
+  "seed": 1,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after going shopping , anita cooks dinner",
+    "after going shopping , anita attends a meeting"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after drinking tea , rohan reads a book",
+    "after drinking tea , rohan visits the gym"
+   ],
+   [
+    "after eating breakfast , amit starts work",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.1,
+  "overlap": 0.7293154761904762,
+  "falls_back_to_learned": 0.9,
+  "cond": "reversed order",
+  "seed": 2,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after starting work , vikram has lunch",
+    "after going for a walk , vikram has lunch"
+   ],
+   [
+    "after having lunch , arjun goes for a walk",
+    "after having lunch , arjun attends a meeting"
+   ],
+   [
+    "after taking a shower , vikram eats breakfast",
+    "after taking a shower , vikram plays cricket"
+   ],
+   [
+    "after eating breakfast , amit plays cricket",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.125,
+  "overlap": 0.7063988095238095,
+  "falls_back_to_learned": 0.875,
+  "cond": "reversed order",
+  "seed": 3,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after listening to music , rahul does yoga",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after playing cricket , arjun takes a shower",
+    "after playing cricket , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha starts work"
+   ],
+   [
+    "after starting work , meera has lunch",
+    "after starting work , meera eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.7203869047619047,
+  "falls_back_to_learned": 0.975,
+  "cond": "reversed order",
+  "seed": 4,
+  "aug": false,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , arjun starts work",
+    "after eating breakfast , arjun takes a shower"
+   ],
+   [
+    "after going shopping , sunita cooks dinner",
+    "after going shopping , sunita attends a meeting"
+   ],
+   [
+    "after reading a book , priya listens to music",
+    "after reading a book , priya drinks tea"
+   ],
+   [
+    "after taking a shower , neha eats breakfast",
+    "after taking a shower , neha visits the gym"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 0,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 1,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 2,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 3,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 4,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9,
+  "overlap": 0.975,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 0,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.775,
+  "overlap": 0.9368551587301589,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 1,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit cooks dinner",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 2,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.85,
+  "overlap": 0.9609126984126984,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 3,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.9892857142857142,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 4,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.8888888888888888,
+  "overlap": 0.9595679012345679,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 0,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after visiting the gym , meera drinks tea",
+    "after visiting the gym , meera drinks tea"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ],
+   [
+    "after playing cricket , amit goes shopping",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9210526315789473,
+  "overlap": 0.9736842105263158,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 1,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after listening to music , rahul plays cricket",
+    "after listening to music , rahul does yoga"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ],
+   [
+    "after starting work , rahul visits the gym",
+    "after starting work , rahul attends a meeting"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 2,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after eating breakfast , anita starts work",
+    "after eating breakfast , anita starts work"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after drinking tea , neha reads a book",
+    "after drinking tea , neha reads a book"
+   ]
+  ]
+ },
+ {
+  "exact": 0.868421052631579,
+  "overlap": 0.9573934837092731,
+  "falls_back_to_learned": 0.02631578947368421,
+  "cond": "entities",
+  "seed": 3,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after going for a walk , sunita cooks dinner",
+    "after going for a walk , sunita cooks dinner"
+   ],
+   [
+    "after doing yoga , sunita takes a shower",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after visiting the gym , neha drinks tea",
+    "after visiting the gym , neha drinks tea"
+   ],
+   [
+    "after starting work , neha has lunch",
+    "after starting work , neha has lunch"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 4,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , neha drinks tea",
+    "after going for a walk , neha drinks tea"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after taking a shower , neha eats breakfast",
+    "after taking a shower , neha eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.8780487804878049,
+  "overlap": 0.9651567944250871,
+  "falls_back_to_learned": 0.04878048780487805,
+  "cond": "chains",
+  "seed": 0,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after doing yoga , anita eats breakfast",
+    "after doing yoga , anita eats breakfast"
+   ],
+   [
+    "after playing cricket , amit takes a shower",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after starting work , vikram attends a meeting",
+    "after starting work , vikram has lunch"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9302325581395349,
+  "overlap": 0.9767441860465116,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 1,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after going for a walk , arjun drinks tea",
+    "after going for a walk , arjun drinks tea"
+   ],
+   [
+    "after going for a walk , meera drinks tea",
+    "after going for a walk , meera drinks tea"
+   ],
+   [
+    "after going for a walk , amit drinks tea",
+    "after going for a walk , amit drinks tea"
+   ],
+   [
+    "after doing yoga , meera takes a shower",
+    "after doing yoga , meera takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 2,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , karan plays cricket",
+    "after eating breakfast , karan plays cricket"
+   ],
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after doing yoga , rahul takes a shower",
+    "after doing yoga , rahul takes a shower"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.7894736842105263,
+  "overlap": 0.9257518796992482,
+  "falls_back_to_learned": 0.15789473684210525,
+  "cond": "chains",
+  "seed": 3,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , amit plays cricket",
+    "after eating breakfast , amit plays cricket"
+   ],
+   [
+    "after doing yoga , sunita eats breakfast",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after eating breakfast , kavita plays cricket",
+    "after eating breakfast , kavita plays cricket"
+   ],
+   [
+    "after eating breakfast , sunita plays cricket",
+    "after eating breakfast , sunita plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.99375,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 4,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after attending a meeting , amit goes shopping",
+    "after attending a meeting , amit goes shopping"
+   ],
+   [
+    "after doing yoga , vikram takes a shower",
+    "after doing yoga , vikram takes a shower"
+   ],
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 0,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , karan does yoga",
+    "after eating breakfast , karan does yoga"
+   ],
+   [
+    "after eating breakfast , amit takes a shower",
+    "after eating breakfast , amit takes a shower"
+   ],
+   [
+    "after starting work , priya eats breakfast",
+    "after starting work , priya eats breakfast"
+   ],
+   [
+    "after taking a shower , rohan plays cricket",
+    "after taking a shower , rohan plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9,
+  "overlap": 0.9666666666666666,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 1,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after going shopping , anita attends a meeting",
+    "after going shopping , anita attends a meeting"
+   ],
+   [
+    "after taking a shower , rahul plays cricket",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after drinking tea , rohan visits the gym",
+    "after drinking tea , rohan visits the gym"
+   ],
+   [
+    "after eating breakfast , amit does yoga",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9928571428571429,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 2,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after going for a walk , vikram has lunch",
+    "after going for a walk , vikram has lunch"
+   ],
+   [
+    "after having lunch , arjun attends a meeting",
+    "after having lunch , arjun attends a meeting"
+   ],
+   [
+    "after taking a shower , vikram plays cricket",
+    "after taking a shower , vikram plays cricket"
+   ],
+   [
+    "after eating breakfast , amit does yoga",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9916666666666668,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 3,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after taking a shower , rahul plays cricket",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after playing cricket , arjun eats breakfast",
+    "after playing cricket , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , neha starts work",
+    "after attending a meeting , neha starts work"
+   ],
+   [
+    "after starting work , meera eats breakfast",
+    "after starting work , meera eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.75,
+  "overlap": 0.9136904761904763,
+  "falls_back_to_learned": 0.05,
+  "cond": "reversed order",
+  "seed": 4,
+  "aug": true,
+  "attn": false,
+  "examples": [
+   [
+    "after eating breakfast , arjun takes a shower",
+    "after eating breakfast , arjun takes a shower"
+   ],
+   [
+    "after going shopping , sunita attends a meeting",
+    "after going shopping , sunita attends a meeting"
+   ],
+   [
+    "after reading a book , priya drinks tea",
+    "after reading a book , priya drinks tea"
+   ],
+   [
+    "after taking a shower , neha visits the gym",
+    "after taking a shower , neha visits the gym"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 0,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 1,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 2,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 3,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 4,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.925,
+  "overlap": 0.9621527777777779,
+  "falls_back_to_learned": 0.075,
+  "cond": "templates",
+  "seed": 0,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.98125,
+  "falls_back_to_learned": 0.05,
+  "cond": "templates",
+  "seed": 1,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , anita has lunch",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 2,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9964285714285716,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 3,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.96875,
+  "falls_back_to_learned": 0.05,
+  "cond": "templates",
+  "seed": 4,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after visiting the gym , arjun drinks tea",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 0,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after visiting the gym , meera drinks tea",
+    "after visiting the gym , meera drinks tea"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ],
+   [
+    "after playing cricket , amit takes a shower",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 1,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after listening to music , rahul does yoga",
+    "after listening to music , rahul does yoga"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ],
+   [
+    "after starting work , rahul attends a meeting",
+    "after starting work , rahul attends a meeting"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 2,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after eating breakfast , anita starts work",
+    "after eating breakfast , anita starts work"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after drinking tea , neha reads a book",
+    "after drinking tea , neha reads a book"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 3,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after going for a walk , sunita cooks dinner",
+    "after going for a walk , sunita cooks dinner"
+   ],
+   [
+    "after doing yoga , sunita takes a shower",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after visiting the gym , neha drinks tea",
+    "after visiting the gym , neha drinks tea"
+   ],
+   [
+    "after starting work , neha has lunch",
+    "after starting work , neha has lunch"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 4,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , neha drinks tea",
+    "after going for a walk , neha drinks tea"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after taking a shower , neha eats breakfast",
+    "after taking a shower , neha eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.7099303135888502,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 0,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , anita takes a shower",
+    "after doing yoga , anita eats breakfast"
+   ],
+   [
+    "after listening to music , amit does yoga",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after starting work , vikram attends a meeting",
+    "after starting work , vikram has lunch"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.5981912144702843,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 1,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after visiting the gym , arjun drinks tea",
+    "after going for a walk , arjun drinks tea"
+   ],
+   [
+    "after visiting the gym , meera drinks tea",
+    "after going for a walk , meera drinks tea"
+   ],
+   [
+    "after visiting the gym , amit drinks tea",
+    "after going for a walk , amit drinks tea"
+   ],
+   [
+    "after listening to music , meera does yoga",
+    "after doing yoga , meera takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.05128205128205128,
+  "overlap": 0.6254578754578756,
+  "falls_back_to_learned": 0.9487179487179487,
+  "cond": "chains",
+  "seed": 2,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , karan starts work",
+    "after eating breakfast , karan plays cricket"
+   ],
+   [
+    "after reading a book , neha listens to music",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after doing yoga , rahul takes a shower"
+   ],
+   [
+    "after going for a walk , arjun drinks tea",
+    "after taking a shower , arjun eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.5207289055973267,
+  "falls_back_to_learned": 1.0,
+  "cond": "chains",
+  "seed": 3,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after taking a shower , amit eats breakfast",
+    "after eating breakfast , amit plays cricket"
+   ],
+   [
+    "after doing yoga , sunita eats breakfast",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after taking a shower , kavita eats breakfast",
+    "after eating breakfast , kavita plays cricket"
+   ],
+   [
+    "after cooking dinner , sunita goes for a walk",
+    "after eating breakfast , sunita plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.6821428571428572,
+  "falls_back_to_learned": 0.975,
+  "cond": "chains",
+  "seed": 4,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , amit has lunch",
+    "after attending a meeting , amit goes shopping"
+   ],
+   [
+    "after doing yoga , vikram eats breakfast",
+    "after doing yoga , vikram takes a shower"
+   ],
+   [
+    "after attending a meeting , neha has lunch",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , rohan drinks tea",
+    "after taking a shower , rohan eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.075,
+  "overlap": 0.7116071428571429,
+  "falls_back_to_learned": 0.775,
+  "cond": "reversed order",
+  "seed": 0,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , karan starts work",
+    "after eating breakfast , karan does yoga"
+   ],
+   [
+    "after eating breakfast , amit starts work",
+    "after eating breakfast , amit takes a shower"
+   ],
+   [
+    "after starting work , priya goes shopping",
+    "after starting work , priya eats breakfast"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after taking a shower , rohan plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.6827876984126984,
+  "falls_back_to_learned": 0.975,
+  "cond": "reversed order",
+  "seed": 1,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after going shopping , anita cooks dinner",
+    "after going shopping , anita attends a meeting"
+   ],
+   [
+    "after visiting the gym , rahul takes a shower",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after drinking tea , rohan reads a book",
+    "after drinking tea , rohan visits the gym"
+   ],
+   [
+    "after eating breakfast , amit starts work",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.1,
+  "overlap": 0.7357638888888889,
+  "falls_back_to_learned": 0.9,
+  "cond": "reversed order",
+  "seed": 2,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after going for a walk , vikram cooks dinner",
+    "after going for a walk , vikram has lunch"
+   ],
+   [
+    "after having lunch , arjun goes for a walk",
+    "after having lunch , arjun attends a meeting"
+   ],
+   [
+    "after taking a shower , vikram eats breakfast",
+    "after taking a shower , vikram plays cricket"
+   ],
+   [
+    "after eating breakfast , amit starts work",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 0.125,
+  "overlap": 0.7397321428571428,
+  "falls_back_to_learned": 0.875,
+  "cond": "reversed order",
+  "seed": 3,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after playing cricket , arjun takes a shower",
+    "after playing cricket , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , neha has lunch",
+    "after attending a meeting , neha starts work"
+   ],
+   [
+    "after starting work , meera has lunch",
+    "after starting work , meera eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.7141369047619047,
+  "falls_back_to_learned": 0.8,
+  "cond": "reversed order",
+  "seed": 4,
+  "aug": false,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun takes a shower"
+   ],
+   [
+    "after going shopping , sunita cooks dinner",
+    "after going shopping , sunita attends a meeting"
+   ],
+   [
+    "after going for a walk , priya drinks tea",
+    "after reading a book , priya drinks tea"
+   ],
+   [
+    "after taking a shower , neha takes a shower",
+    "after taking a shower , neha visits the gym"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 0,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 1,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 2,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 3,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "combinations",
+  "seed": 4,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.996875,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 0,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , karan eats breakfast",
+    "after doing yoga , karan eats breakfast"
+   ],
+   [
+    "after taking a shower , amit eats breakfast",
+    "after taking a shower , amit eats breakfast"
+   ],
+   [
+    "after eating breakfast , priya starts work",
+    "after eating breakfast , priya starts work"
+   ],
+   [
+    "after playing cricket , rohan takes a shower",
+    "after playing cricket , rohan takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.875,
+  "overlap": 0.9637896825396826,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 1,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , anita goes shopping",
+    "after attending a meeting , anita goes shopping"
+   ],
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after visiting the gym , rohan drinks tea",
+    "after visiting the gym , rohan drinks tea"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "templates",
+  "seed": 2,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after having lunch , vikram goes for a walk",
+    "after having lunch , vikram goes for a walk"
+   ],
+   [
+    "after attending a meeting , arjun has lunch",
+    "after attending a meeting , arjun has lunch"
+   ],
+   [
+    "after playing cricket , vikram takes a shower",
+    "after playing cricket , vikram takes a shower"
+   ],
+   [
+    "after doing yoga , amit eats breakfast",
+    "after doing yoga , amit eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.825,
+  "overlap": 0.9586309523809524,
+  "falls_back_to_learned": 0.05,
+  "cond": "templates",
+  "seed": 3,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after playing cricket , rahul takes a shower",
+    "after playing cricket , rahul takes a shower"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after starting work , neha attends a meeting",
+    "after starting work , neha attends a meeting"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9964285714285716,
+  "falls_back_to_learned": 0.025,
+  "cond": "templates",
+  "seed": 4,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , sunita goes shopping",
+    "after attending a meeting , sunita goes shopping"
+   ],
+   [
+    "after drinking tea , priya reads a book",
+    "after drinking tea , priya reads a book"
+   ],
+   [
+    "after visiting the gym , neha takes a shower",
+    "after visiting the gym , neha takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9777777777777777,
+  "overlap": 0.9972222222222222,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 0,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after visiting the gym , meera drinks tea",
+    "after visiting the gym , meera drinks tea"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ],
+   [
+    "after playing cricket , amit takes a shower",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after eating breakfast , meera plays cricket",
+    "after eating breakfast , meera plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9210526315789473,
+  "overlap": 0.9799498746867169,
+  "falls_back_to_learned": 0.02631578947368421,
+  "cond": "entities",
+  "seed": 1,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after listening to music , rahul does yoga",
+    "after listening to music , rahul does yoga"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ],
+   [
+    "after starting work , rahul attends a meeting",
+    "after starting work , rahul attends a meeting"
+   ],
+   [
+    "after listening to music , rohan does yoga",
+    "after listening to music , rohan does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 2,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after eating breakfast , anita starts work",
+    "after eating breakfast , anita starts work"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ],
+   [
+    "after drinking tea , neha reads a book",
+    "after drinking tea , neha reads a book"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9473684210526315,
+  "overlap": 0.9868421052631579,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 3,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after going for a walk , sunita cooks dinner",
+    "after going for a walk , sunita cooks dinner"
+   ],
+   [
+    "after doing yoga , sunita takes a shower",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after visiting the gym , neha drinks tea",
+    "after visiting the gym , neha drinks tea"
+   ],
+   [
+    "after starting work , neha has lunch",
+    "after starting work , neha has lunch"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "entities",
+  "seed": 4,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after going for a walk , neha drinks tea",
+    "after going for a walk , neha drinks tea"
+   ],
+   [
+    "after eating breakfast , arjun plays cricket",
+    "after eating breakfast , arjun plays cricket"
+   ],
+   [
+    "after taking a shower , neha eats breakfast",
+    "after taking a shower , neha eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 0,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after doing yoga , anita eats breakfast",
+    "after doing yoga , anita eats breakfast"
+   ],
+   [
+    "after playing cricket , amit takes a shower",
+    "after playing cricket , amit takes a shower"
+   ],
+   [
+    "after starting work , vikram has lunch",
+    "after starting work , vikram has lunch"
+   ],
+   [
+    "after eating breakfast , meera starts work",
+    "after eating breakfast , meera starts work"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 1,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after going for a walk , arjun drinks tea",
+    "after going for a walk , arjun drinks tea"
+   ],
+   [
+    "after going for a walk , meera drinks tea",
+    "after going for a walk , meera drinks tea"
+   ],
+   [
+    "after going for a walk , amit drinks tea",
+    "after going for a walk , amit drinks tea"
+   ],
+   [
+    "after doing yoga , meera takes a shower",
+    "after doing yoga , meera takes a shower"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 2,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , karan plays cricket",
+    "after eating breakfast , karan plays cricket"
+   ],
+   [
+    "after listening to music , neha does yoga",
+    "after listening to music , neha does yoga"
+   ],
+   [
+    "after doing yoga , rahul takes a shower",
+    "after doing yoga , rahul takes a shower"
+   ],
+   [
+    "after taking a shower , arjun eats breakfast",
+    "after taking a shower , arjun eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 3,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , amit plays cricket",
+    "after eating breakfast , amit plays cricket"
+   ],
+   [
+    "after doing yoga , sunita takes a shower",
+    "after doing yoga , sunita takes a shower"
+   ],
+   [
+    "after eating breakfast , kavita plays cricket",
+    "after eating breakfast , kavita plays cricket"
+   ],
+   [
+    "after eating breakfast , sunita plays cricket",
+    "after eating breakfast , sunita plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.990625,
+  "falls_back_to_learned": 0.0,
+  "cond": "chains",
+  "seed": 4,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after attending a meeting , amit goes shopping",
+    "after attending a meeting , amit goes shopping"
+   ],
+   [
+    "after doing yoga , vikram takes a shower",
+    "after doing yoga , vikram takes a shower"
+   ],
+   [
+    "after attending a meeting , neha goes shopping",
+    "after attending a meeting , neha goes shopping"
+   ],
+   [
+    "after taking a shower , rohan eats breakfast",
+    "after taking a shower , rohan eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9928571428571429,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 0,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , karan does yoga",
+    "after eating breakfast , karan does yoga"
+   ],
+   [
+    "after eating breakfast , amit takes a shower",
+    "after eating breakfast , amit takes a shower"
+   ],
+   [
+    "after starting work , priya eats breakfast",
+    "after starting work , priya eats breakfast"
+   ],
+   [
+    "after taking a shower , rohan plays cricket",
+    "after taking a shower , rohan plays cricket"
+   ]
+  ]
+ },
+ {
+  "exact": 0.9,
+  "overlap": 0.975,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 1,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after going shopping , anita attends a meeting",
+    "after going shopping , anita attends a meeting"
+   ],
+   [
+    "after taking a shower , rahul plays cricket",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after drinking tea , rohan visits the gym",
+    "after drinking tea , rohan visits the gym"
+   ],
+   [
+    "after eating breakfast , amit does yoga",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 2,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after going for a walk , vikram has lunch",
+    "after going for a walk , vikram has lunch"
+   ],
+   [
+    "after having lunch , arjun attends a meeting",
+    "after having lunch , arjun attends a meeting"
+   ],
+   [
+    "after taking a shower , vikram plays cricket",
+    "after taking a shower , vikram plays cricket"
+   ],
+   [
+    "after eating breakfast , amit does yoga",
+    "after eating breakfast , amit does yoga"
+   ]
+  ]
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "falls_back_to_learned": 0.0,
+  "cond": "reversed order",
+  "seed": 3,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after taking a shower , rahul plays cricket",
+    "after taking a shower , rahul plays cricket"
+   ],
+   [
+    "after playing cricket , arjun eats breakfast",
+    "after playing cricket , arjun eats breakfast"
+   ],
+   [
+    "after attending a meeting , neha starts work",
+    "after attending a meeting , neha starts work"
+   ],
+   [
+    "after starting work , meera eats breakfast",
+    "after starting work , meera eats breakfast"
+   ]
+  ]
+ },
+ {
+  "exact": 0.925,
+  "overlap": 0.9892857142857142,
+  "falls_back_to_learned": 0.075,
+  "cond": "reversed order",
+  "seed": 4,
+  "aug": true,
+  "attn": true,
+  "examples": [
+   [
+    "after eating breakfast , arjun takes a shower",
+    "after eating breakfast , arjun takes a shower"
+   ],
+   [
+    "after going shopping , sunita attends a meeting",
+    "after going shopping , sunita attends a meeting"
+   ],
+   [
+    "after reading a book , priya drinks tea",
+    "after reading a book , priya drinks tea"
+   ],
+   [
+    "after taking a shower , neha visits the gym",
+    "after taking a shower , neha visits the gym"
+   ]
+  ]
+ }
+]

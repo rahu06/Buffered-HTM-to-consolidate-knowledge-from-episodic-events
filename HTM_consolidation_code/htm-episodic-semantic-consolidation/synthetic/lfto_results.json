@@ -1,0 +1,3152 @@
+[
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 0,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 0,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 0,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 0,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 1,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 1,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 1,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 2,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 2,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 2,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 3,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 3,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 3,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 1.0
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.875
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained on all fact types",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "No projection (unsupervised)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "category generalization",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "causal-conditional",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.625
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "location preference",
+  "fact_accuracy": 0.75
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.5
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "reading preference",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.375
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "temporal habit",
+  "fact_accuracy": 0.25
+ },
+ {
+  "fold": 4,
+  "seed": 1,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ },
+ {
+  "fold": 4,
+  "seed": 7,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 42,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 123,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.0
+ },
+ {
+  "fold": 4,
+  "seed": 999,
+  "setting": "Projection trained without the held-out type (LFTO)",
+  "held_out_type": "transport mode",
+  "fact_accuracy": 0.125
+ }
+]

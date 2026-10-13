@@ -1,0 +1,1002 @@
+[
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "combinations",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "combinations",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "combinations",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "combinations",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "combinations",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "combinations",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "combinations",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "combinations",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "combinations",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "combinations",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "combinations",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "combinations",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "combinations",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "combinations",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "combinations",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.996875,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "templates",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.85,
+  "overlap": 0.9516865079365079,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "templates",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "templates",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.99375,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "templates",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 0.85,
+  "overlap": 0.9614087301587302,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "templates",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.9761904761904763,
+  "method": "revised LSTM",
+  "cond": "templates",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.925,
+  "overlap": 0.9839285714285715,
+  "method": "revised LSTM",
+  "cond": "templates",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 0.9,
+  "overlap": 0.9700396825396826,
+  "method": "revised LSTM",
+  "cond": "templates",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9964285714285716,
+  "method": "revised LSTM",
+  "cond": "templates",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "templates",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "templates",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "templates",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "templates",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "templates",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "templates",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.9777777777777777,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "entities",
+  "seed": 0,
+  "n_test": 45
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "entities",
+  "seed": 1,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 0.9999999984716758,
+  "method": "column attention (CAG)",
+  "cond": "entities",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "entities",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "entities",
+  "seed": 4,
+  "n_test": 37
+ },
+ {
+  "exact": 0.9555555555555556,
+  "overlap": 0.9853174603174604,
+  "method": "revised LSTM",
+  "cond": "entities",
+  "seed": 0,
+  "n_test": 45
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "entities",
+  "seed": 1,
+  "n_test": 38
+ },
+ {
+  "exact": 0.9743589743589743,
+  "overlap": 0.9926739926739927,
+  "method": "revised LSTM",
+  "cond": "entities",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 0.9473684210526315,
+  "overlap": 0.9799498746867169,
+  "method": "revised LSTM",
+  "cond": "entities",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "entities",
+  "seed": 4,
+  "n_test": 37
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "entities",
+  "seed": 0,
+  "n_test": 45
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "entities",
+  "seed": 1,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "entities",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "entities",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "entities",
+  "seed": 4,
+  "n_test": 37
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "chains",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 0.9767441860465116,
+  "overlap": 0.9896640826873385,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "chains",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "chains",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "chains",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "chains",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "chains",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "chains",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "chains",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "chains",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 0.875,
+  "overlap": 0.98125,
+  "method": "revised LSTM",
+  "cond": "chains",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "chains",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "chains",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "chains",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "chains",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "chains",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "reversed order",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "reversed order",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "reversed order",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "reversed order",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "reversed order",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "reversed order",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.986111111111111,
+  "method": "revised LSTM",
+  "cond": "reversed order",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "reversed order",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "reversed order",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "reversed order",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "reversed order",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "reversed order",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "reversed order",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "reversed order",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "reversed order",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "longer sequences (3 facts)",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "longer sequences (3 facts)",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "longer sequences (3 facts)",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "longer sequences (3 facts)",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 0.425,
+  "overlap": 0.8548076923076924,
+  "attention_on_true": 1.0,
+  "method": "column attention (CAG)",
+  "cond": "longer sequences (3 facts)",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "longer sequences (3 facts)",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "longer sequences (3 facts)",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 0.9487179487179487,
+  "overlap": 0.9881656804733728,
+  "method": "revised LSTM",
+  "cond": "longer sequences (3 facts)",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "longer sequences (3 facts)",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "longer sequences (3 facts)",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "longer sequences (3 facts)",
+  "seed": 0,
+  "n_test": 41
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "longer sequences (3 facts)",
+  "seed": 1,
+  "n_test": 43
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "longer sequences (3 facts)",
+  "seed": 2,
+  "n_test": 39
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "longer sequences (3 facts)",
+  "seed": 3,
+  "n_test": 38
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "longer sequences (3 facts)",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 0.7977820545434952,
+  "method": "column attention (CAG)",
+  "cond": "competing columns",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.9854166666666668,
+  "attention_on_true": 0.8072793826460838,
+  "method": "column attention (CAG)",
+  "cond": "competing columns",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 0.8081620752811431,
+  "method": "column attention (CAG)",
+  "cond": "competing columns",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "attention_on_true": 0.8154242679476738,
+  "method": "column attention (CAG)",
+  "cond": "competing columns",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9916666666666666,
+  "attention_on_true": 0.805473017692566,
+  "method": "column attention (CAG)",
+  "cond": "competing columns",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.990625,
+  "method": "revised LSTM",
+  "cond": "competing columns",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9928571428571429,
+  "method": "revised LSTM",
+  "cond": "competing columns",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9944444444444445,
+  "method": "revised LSTM",
+  "cond": "competing columns",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "revised LSTM",
+  "cond": "competing columns",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.99375,
+  "method": "revised LSTM",
+  "cond": "competing columns",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "competing columns",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "competing columns",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "competing columns",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "competing columns",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "competing columns",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.984375,
+  "attention_on_true": 0.6280724041163921,
+  "method": "column attention (CAG)",
+  "cond": "more competitors at test",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.825,
+  "overlap": 0.9428571428571428,
+  "attention_on_true": 0.659040279686451,
+  "method": "column attention (CAG)",
+  "cond": "more competitors at test",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 0.95,
+  "overlap": 0.9854166666666668,
+  "attention_on_true": 0.6437920667231083,
+  "method": "column attention (CAG)",
+  "cond": "more competitors at test",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 0.975,
+  "overlap": 0.9928571428571429,
+  "attention_on_true": 0.6530693903565407,
+  "method": "column attention (CAG)",
+  "cond": "more competitors at test",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 0.9,
+  "overlap": 0.9720238095238095,
+  "attention_on_true": 0.6311101078987121,
+  "method": "column attention (CAG)",
+  "cond": "more competitors at test",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 0.15,
+  "overlap": 0.612202380952381,
+  "method": "revised LSTM",
+  "cond": "more competitors at test",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 0.025,
+  "overlap": 0.47237103174603173,
+  "method": "revised LSTM",
+  "cond": "more competitors at test",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 0.0,
+  "overlap": 0.4893849206349207,
+  "method": "revised LSTM",
+  "cond": "more competitors at test",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 0.15,
+  "overlap": 0.6515376984126984,
+  "method": "revised LSTM",
+  "cond": "more competitors at test",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 0.075,
+  "overlap": 0.5466765873015873,
+  "method": "revised LSTM",
+  "cond": "more competitors at test",
+  "seed": 4,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "more competitors at test",
+  "seed": 0,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "more competitors at test",
+  "seed": 1,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "more competitors at test",
+  "seed": 2,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "more competitors at test",
+  "seed": 3,
+  "n_test": 40
+ },
+ {
+  "exact": 1.0,
+  "overlap": 1.0,
+  "method": "transformer",
+  "cond": "more competitors at test",
+  "seed": 4,
+  "n_test": 40
+ }
+]
